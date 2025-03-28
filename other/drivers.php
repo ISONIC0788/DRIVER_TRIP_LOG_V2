@@ -361,8 +361,12 @@ session_start();
               <div class="card-header">
                 <h5>Driver views </h5>
                 <p> <i class="bi bi-file-earmark-word-fill col-3" style='color:blue'></i> Word Doc 2007 
-                  <a href="./WordDownload/driverWord2007.php"><i class="ti ti-download" title='Download Word Doc'></i></a> </p>
-              </div>
+                  <a href="./WordDownload/driverWord2007.php"><i class="ti ti-download" title='Download Word Doc'></i></a>
+                  <i class="bi bi-file-spreadsheet col-3" style='color:green'></i>Excel Sheet 
+                   <a href="./ExcelDownload/DriverExcel.php"><i class="ti ti-download" title='Download Word Doc'></i></a>
+                   
+                </p>
+                   </div>
               <div class="card-body">
                   <!-- [tables and data diplay ] -->
                  <table class ="table table-hover">

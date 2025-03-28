@@ -358,8 +358,11 @@ session_start();
               <div class="card-header">
                 <h5>Financial Record</h5>
                 <p> <i class="bi bi-file-earmark-word-fill col-3" style='color:blue'></i> Word Doc 2007 
-                  <a href="./WordDownload/financialWord207.php"><i class="ti ti-download" title='Download Word Doc'></i></a> </p>
-              
+                  <a href="./WordDownload/financialWord207.php"><i class="ti ti-download" title='Download Word Doc'></i></a> 
+                  <i class="bi bi-file-spreadsheet col-3" style='color:green'></i>Excel Sheet 
+                   <a href="./ExcelDownload/FinancialExcel.php"><i class="ti ti-download" title='Download Word Doc'></i></a>
+                   </p>
+                  
               </div>
               <div class="card-body">
                 <!-- [view for financial ] -->

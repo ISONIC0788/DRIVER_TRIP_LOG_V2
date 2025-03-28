@@ -345,7 +345,11 @@ session_start();
                 <h5>Pending Request</h5>
                 <p>
                 <p> <i class="bi bi-file-earmark-word-fill col-3" style='color:blue'></i> Word Doc 2007 
-                  <a href="./WordDownload/requestedWord2007.php"><i class="ti ti-download" title='Download Word Doc'></i></a> </p>
+                  <a href="./WordDownload/requestedWord2007.php"><i class="ti ti-download" title='Download Word Doc'></i></a> 
+                  <i class="bi bi-file-spreadsheet col-3" style='color:green'></i>Excel Sheet 
+                   <a href="./ExcelDownload/requestedExcel.php"><i class="ti ti-download" title='Download Word Doc'></i></a>
+                  
+                </p>
               
                   <span class="badges">Pending</span>
                   this section it contain some information about pending Request for Requested for trips  
